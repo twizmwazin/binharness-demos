@@ -1,0 +1,4 @@
+.mypy_cache
+venv
+trivial-strace/demo.bht
+.DS_Store
